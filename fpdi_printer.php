@@ -7,7 +7,7 @@
  * @license   http://opensource.org/licenses/mit-license The MIT License
  * @version   1.6.1
  */
-class fpdi_bridge extends FPDF
+class fpdi_printer extends FPDI
 {
 	public $javascript;
 	public $n_js;
