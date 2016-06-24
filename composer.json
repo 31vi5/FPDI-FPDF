@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "classmap": [
-            "fpdi_bridge.php"
+            "fpdi_printer.php"
         ]
     },
     "require": {
